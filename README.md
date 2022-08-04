@@ -16,6 +16,6 @@ INSTALLATION Files were uploaded to GitHub.
 
 SUPPORT Please contact Sue Morin, suecmorin@gmail.com.
 
-ROAD MAP
+IMAGE #1 Github issues for passwordgenerator repository
 
-CONTRIBUTING
+CONTRIBUTING stackOverflow/questions/62670788/first-javascript-assignment-cant-seem-to-randomly-generate-password
